@@ -1,0 +1,6 @@
+outs:
+- md5: 42b1a39d770b7c560288f1c7c8dad520.dir
+  size: 136023
+  nfiles: 82
+  hash: md5
+  path: carannotations

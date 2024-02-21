@@ -1,0 +1,6 @@
+outs:
+- md5: 5dbdf9d53115de108156b0a7c20569b3.dir
+  size: 1523775
+  nfiles: 2
+  hash: md5
+  path: labelstudio

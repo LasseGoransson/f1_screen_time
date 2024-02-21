@@ -1,0 +1,1 @@
+sudo docker run -it -u 1000:1000 -p 8080:8080 --env LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true --env LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=/label-studio/files -v /home/lbg/f1_project/labelstudio/data:/label-studio/data -v /home/lbg/f1_project/data:/label-studio/files  heartexlabs/label-studio:latest

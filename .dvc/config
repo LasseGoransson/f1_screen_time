@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = gcs
+['remote "gcs"']
+    url = gs://f1_screen_time/dvc
